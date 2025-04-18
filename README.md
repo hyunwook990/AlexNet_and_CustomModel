@@ -1,4 +1,4 @@
-다른 모델의 repository
+# 다른 vision 모델들의 repository
 - https://github.com/hyunwook990/vision_model_practice.git
 ---
 # AlexNet 구현
