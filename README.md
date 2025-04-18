@@ -1,3 +1,6 @@
+다른 모델의 repository
+- https://github.com/hyunwook990/vision_model_practice.git
+---
 # AlexNet 구현
 
 - 문제 1: x1, x2로 병렬처리를 따라한 것은 구현, 그러나 세번째 레이어에서 두 output을 모두 input으로 받는 것을 어떻게 구현해야할 지 모르겠다...
