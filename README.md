@@ -1,5 +1,7 @@
 # 다른 vision 모델들의 repository
 - https://github.com/hyunwook990/vision_model_practice.git
+# AlexNet 정리 (Notion)
+- https://skitter-airport-cf1.notion.site/AlexNet-1b708a64f17581538e9ef6e2dab27275?pvs=4
 ---
 # AlexNet 구현
 
